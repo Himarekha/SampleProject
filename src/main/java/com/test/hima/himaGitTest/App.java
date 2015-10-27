@@ -13,6 +13,8 @@ public class App
         System.out.println( "Git testing cycle 2" );
         
         System.out.println( " https://github.com/Himarekha/SampleProject.git" );
+        
+        System.out.println( " Commit from KG Machine" );
        /**TEstting*/
     }
 }
