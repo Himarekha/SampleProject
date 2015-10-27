@@ -11,5 +11,9 @@ public class App
         System.out.println( "Hello World!" );
         
         System.out.println( "Git testing cycle 2" );
+        
+        
+        System.out.println( " https://github.com/Himarekha/SampleProject.git" );
+       
     }
 }
