@@ -16,5 +16,7 @@ public class App
         
         System.out.println( " Commit from KG Machine" );
        /**TEstting*/
+        
+        System.out.println( " Commit from KG Machine added more code" );
     }
 }
