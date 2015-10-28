@@ -37,9 +37,12 @@ public class App
         
         System.out.println( " https://github.com/Himarekha/SampleProject.git" );
         
-        System.out.println( " Commit from KG Machine" );
+        System.out.println( " Commit from KG Machine 1 " );
        /**TEstting*/
         
-        System.out.println( " Commit from KG Machine added more code" );
+        System.out.println( " Commit from KG Machine 2 " );
+        /**TEstting*/
+        
+        System.out.println( " Commit from KG Machine added more code 3 " );
     }
 }
